@@ -455,13 +455,13 @@ mayor entendimiento sobre cómo relacionar ambos módulos para aplicarlos en nue
 simulación de un estacionamiento.
 
 ## References
-[1] D. C. Shoup, “Cruising for parking,” Transport Policy, vol. 13, no. 6, pp. 479–486, Feb. 2006.
+[1] D. C. Shoup, “Cruising for parking,” Transport Policy, vol. 13, no. 6, pp. 479–486, Feb. 2006.  
 [2] Y. Geng and C. G. Cassandras, “A new ‘smart parking’ system infrastructure and
-Implementation,” Procedia - Social and Behavioral Sciences, vol. 54, pp. 1278–1287, Oct. 2012.
+Implementation,” Procedia - Social and Behavioral Sciences, vol. 54, pp. 1278–1287, Oct. 2012.  
 [3] S. J. Russell and P. Norvig, “ Chapter 2. Intelligent Agents,” in Artificial Intelligence: A modern
-approach, Third., Upper Saddle River, New Jersey: Prentice-Hall, 2010, p. 44.
+approach, Third., Upper Saddle River, New Jersey: Prentice-Hall, 2010, p. 44.  
 [4] Code Monkey, “Splines are awesome!!!,” YouTube, 11-Dec-2020. [Online]. Available:
-https://www.youtube.com/watch?v=7j_BNf9s0jM. [Accessed: 28-Jan-2023].
+https://www.youtube.com/watch?v=7j_BNf9s0jM. [Accessed: 28-Jan-2023].  
 
 
 
